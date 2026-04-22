@@ -9,6 +9,8 @@ h1 {
 }
 
 form {
+    padding: 20px;
+    background-color: #ecf0f1;
     margin-top: 20px;
 }
 
